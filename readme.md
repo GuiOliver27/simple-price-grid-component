@@ -1,3 +1,3 @@
 Landing page para captação de cadastro para plataforma de estudos
 
-<img src="https://user-images.githubusercontent.com/37091987/186325631-942e8775-d263-42f8-a774-52851c95e0e2.jpg" width="300px" />
+<img src="https://user-images.githubusercontent.com/37091987/194794151-bdfa5177-578a-453d-a632-aeaff6c94d13.png" width="500px" />
